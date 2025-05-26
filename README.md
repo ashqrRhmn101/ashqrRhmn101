@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **- Researcher - Cybersecurity & ethical hacking - Security vulnerabilities & defense mechanisms - Cryptography & blockchain security - AI in cybersecurity - Penetration testing techniques - Open-source security tools**
 
-- 📫 How to reach me **ashiqurrahman3529@gmail.com | [LinkedIn](https://www.linkedin.com/in/ashqrrhmn) | [Twitter](https://x.com/ashqrrmn) | [Facebook](https://www.facebook.com/ashiqur1099)**
+- 📫 How to reach me **ashiqurrahman3529@gmail.com | [LinkedIn](https://www.linkedin.com/in/ashqrrhmn) | [Twitter](https://x.com/ashqrrmn) | [Facebook](https://www.facebook.com/ashiqur1099) | [Hackerone](https://hackerone.com/ashik101)**
 
 - ⚡ Fun fact **I break things to make them better 😎**
 
