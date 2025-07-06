@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ashiqur Rahman</h1>
 <h3 align="center">👀 I’m interested in 🔬 Researcher | 👨‍💻 Website Developer | 🐞 Bug Hunter | 🛡️ Penetration Tester | 🔐 Cyber Security Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashqrrhmn101&label=Profile%20views&color=0e75b6&style=flat" alt="ashqrrhmn101" /> </p>
+<p align="left"> <img style="width:140px;" src="https://komarev.com/ghpvc/?username=ashqrrhmn101&label=Profile%20views&color=0e75b6&style=flat" alt="ashqrrhmn101" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashqrrhmn101" alt="ashqrrhmn101" /></a> </p>
 
@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/ashqrrmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashqrrmn" height="30" width="40" /></a> &nbsp;&nbsp;
-<a href="https://linkedin.com/in/ashqrrhmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashqrrhmn" height="30" width="40" /></a> &nbsp;&nbsp;
-<a href="https://fb.com/ashiqur1099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashiqur1099" height="30" width="40" /></a> &nbsp;&nbsp;
-<a href="https://instagram.com/_ashqrrmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ashqrrmn" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/ashqrrmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashqrrmn" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/ashqrrhmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashqrrhmn" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://fb.com/ashiqur1099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashiqur1099" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/_ashqrrmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ashqrrmn" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/ashik101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ashik101" height="30" width="40" /></a>
 </p>
 
