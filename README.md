@@ -16,11 +16,11 @@
 - ⚡ Fun fact **I break things to make them better 😎**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/ashqrrmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashqrrmn" height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://linkedin.com/in/ashqrrhmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashqrrhmn" height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://fb.com/ashiqur1099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashiqur1099" height="30" width="40" /></a> &nbsp;&nbsp;
-<a href="https://instagram.com/_ashqrrmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ashqrrmn" height="30" width="40" /></a>
+<a href="https://instagram.com/_ashqrrmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ashqrrmn" height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://codeforces.com/profile/ashik101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ashik101" height="30" width="40" /></a>
 </p>
 
