@@ -24,17 +24,24 @@
 <a href="https://codeforces.com/profile/ashik101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ashik101" height="30" width="40" /></a>
 </p> </br>
 
-<h2 align="center">💻 Technologies that I know </h2>
+<!-- Tech Stack with animated icons -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,git,firebase" />
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=typescript,nodejs,mongo,express,nextjs" />
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=php,wordpress,mysql" />
-</p>
+<div align="center">
+
+### 🎨 **Frontend Development**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,materialui,figma&theme=dark" />
+
+### ⚙️ **Backend Development**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
+
+### 🛠️ **Tools & Technologies**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,netlify&theme=dark" />
+
+### 📱 **Languages**
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js&theme=dark" />
+
+</div>
 
 --------------
 <h3 align="left">Stars</h3>
