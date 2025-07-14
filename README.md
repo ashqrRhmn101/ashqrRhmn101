@@ -6,7 +6,12 @@
 
 <p align="left"> <img style="width:140px;" src="https://komarev.com/ghpvc/?username=ashqrrhmn101&label=Profile%20views&color=0e75b6&style=flat" alt="ashqrrhmn101" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashqrrhmn101" alt="ashqrrhmn101" /></a> </p>
+<!-- Trophies Section -->
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ashqrrhmn101&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+</div>
 
 - 💬 Ask me about **- Researcher - Cybersecurity & ethical hacking - Security vulnerabilities & defense mechanisms - Cryptography & blockchain security - AI in cybersecurity - Penetration testing techniques - Open-source security tools**
 
