@@ -43,8 +43,9 @@
 
 </div>
 
---------------
-<h3 align="left">Stars</h3>
+<!-- GitHub Analytics -->
+---------
+<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics </h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashqrrhmn101&layout=compact&theme=transparent" alt=ashqrrhmn101 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ashqrrhmn101&show_icons=true&locale=en&theme=transparent" alt="ashqrrhmn101" /></p>
