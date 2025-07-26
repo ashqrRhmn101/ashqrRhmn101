@@ -18,7 +18,7 @@
 - 📫 How to reach me **ashiqurrahman3529@gmail.com
 - 🧑‍💻 How to more reach me ** [LinkedIn](https://www.linkedin.com/in/ashqrrhmn) | [Twitter](https://x.com/ashqrrmn) | [Facebook](https://www.facebook.com/ashiqur1099) | [Hackerone](https://hackerone.com/ashik101) | [TryHackMe](https://tryhackme.com/p/hackA.R) **
 
-- ⚡ Fun fact **I break things to make them better 😎**
+<!-- - ⚡ Fun fact **I break things to make them better 😎** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
