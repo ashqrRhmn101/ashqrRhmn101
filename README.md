@@ -1,7 +1,7 @@
 <div align="center">
  <img style="height: 270px;" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-<h1 align="center">Hi 👋, I'm Ashiqur Rahman</h1>
+<h1 align="center">Hi 👋, I'm Lavib Uddin Ashik</h1>
 <h3 align="center">👀 I’m interested in 🔬 Researcher | 👨‍💻 Website Developer | 🐞 Bug Hunter | 🛡️ Penetration Tester | 🔐 Cyber Security Enthusiast</h3>
 
 <p align="left"> <img style="width:140px;" src="https://komarev.com/ghpvc/?username=ashqrrhmn101&label=Profile%20views&color=0e75b6&style=flat" alt="ashqrrhmn101" /> </p>
