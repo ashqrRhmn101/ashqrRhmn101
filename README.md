@@ -1,7 +1,13 @@
 <div align="center">
  <img style="height: 250px;" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-<h1 align="center">Hi 👋, I'm Lavib Uddin Ashik</h1>
+---
+<!-- Banner / Header -->
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=3BC3FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Lavib+Uddin+Ashik;Junior+Frontend+Web+Developer;Learning+React+Tailwind+Node.js;Welcome+To+My+GitHub+Profile+%F0%9F%92%99" />
+</p>
+
+<!-- <h1 align="center">Hi 👋, I'm Lavib Uddin Ashik</h1> -->
 <h3 align="center">👀 I’m interested in 👨‍💻 Website Developer | 🐞 Bug Hunter | 🛡️ Penetration Tester | 🔐 Cyber Security Enthusiast | 🔬 Researcher </h3>
 
 <p align="left"> <img style="width:140px;" src="https://komarev.com/ghpvc/?username=ashqrrhmn101&label=Profile%20views&color=0e75b6&style=flat" alt="ashqrrhmn101" /> </p>
