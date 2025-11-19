@@ -1,7 +1,7 @@
 <div align="center">
  <img style="height: 250px;" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
----
+
 <!-- Banner / Header -->
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=3BC3FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Lavib+Uddin+Ashik;Junior+Frontend+Web+Developer;Learning+React+Tailwind+Node.js;Welcome+To+My+GitHub+Profile+%F0%9F%92%99" />
@@ -19,7 +19,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=ashqrrhmn101&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
-- 💬 Ask me about **- Researcher - Cybersecurity & ethical hacking - Security vulnerabilities & defense mechanisms - Cryptography & blockchain security - AI in cybersecurity - Penetration testing techniques - Open-source security tools**
+- 💬 Ask me about **- **Junior Frontend Web Developer**  - Cybersecurity & ethical hacking - Security vulnerabilities & defense mechanisms - Cryptography & blockchain security - AI in cybersecurity - Penetration testing techniques - Open-source security tools**
+
 
 - 📫 How to reach me **ashiqurrahman3529@gmail.com
 - 🧑‍💻 How to more reach me ** [LinkedIn](https://www.linkedin.com/in/ashqrrhmn) | [Twitter](https://x.com/ashqrrmn) | [Facebook](https://www.facebook.com/ashiqur1099) | [Hackerone](https://hackerone.com/ashik101) | [TryHackMe](https://tryhackme.com/p/hackA.R) **
